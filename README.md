@@ -1,7 +1,9 @@
 # Reinventing software for journalists
 
 Repo: https://github.com/aboutaaron/mozfest-2014
+
 Etherpad: http://bit.ly/mozfest-2014-redo-journo-tools
+
 Schedule: http://schedule.mozillafestival.org/#session/-k3x60KgOJH
 
 ## Agenda
