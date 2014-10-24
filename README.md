@@ -40,16 +40,21 @@ While in groups, brainstorm one or two tools you can reinvent. Don't worry if th
 
 ### Sample:
 __What tool are you reinventing?__
+
 I am reinventing the web email interface
 
 __What do journalists use this tool for?__
+
 Journalist use webmail to communicate with each other and sources. They also use this tool to jot down notes and reminders to themselves.
 
 __How can you make this tool better, i.e., how are you reinventing it?__
+
 I think webmail should enforce better security practices, know when notes are, just that, **notes**, and present a different interface for  them.
 
 __What tools or techniques will you need to build this tool?__
+
 I suggest using [inboxapp](https://www.inboxapp.com/) and the provided [scaffold](https://github.com/inboxapp/inbox-scaffold-html5) to build a better webmail client. These tools use HTML, CSS and JavaScript (client and server).
 
 __Inspirations?__
+
 Mailbox
