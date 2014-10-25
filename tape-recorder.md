@@ -14,15 +14,13 @@ During the interview, the interviewer will start the interview and then tap to a
 
 __What tools or techniques will you need to build this tool?__
 
-Mostly 
+We'd preferably use native mobile OS languages so we an accompmlish near real-time audio analysis. Alternatively we can dispatch to a remote web service. 
 
 __Inspirations?__
 
-Mailbox
+Mega-experienced interviewers that can think on the fly and are aware of waveform abnormalities
 
-## Interesting tools
-- [Inboxapp](https://www.inboxapp.com/) (email)
-- [Breach](http://breach.cc/) (web browser)
-- [Project Ara](http://www.projectara.com/) (phone)
-- [Roost](https://goroost.com/) (web push notifications)
-- [Flatsheet.io](https://github.com/flatsheet/flatsheet) (online spreadsheets)
+__Extending?__
+
+Send receipt/record of the audio to the source so that both parties have proof that the interview took place and what was said by both sides.
+
