@@ -58,3 +58,8 @@ I suggest using [inboxapp](https://www.inboxapp.com/) and the provided [scaffold
 __Inspirations?__
 
 Mailbox
+
+## Interesting tools
+- [Inboxapp](https://www.inboxapp.com/) (email)
+- [Breach](http://breach.cc/) (web browser)
+- [Project Ara](http://www.projectara.com/) (phone)
